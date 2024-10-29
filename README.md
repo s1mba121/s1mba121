@@ -32,7 +32,7 @@
 
 ### 📫 Как со мной связаться:
 
-- **Telegram**: [@s1mba121](https://t.me/@s1mba121)
+- **Telegram**: [@s1mba121](https://t.me/s1mba121)
 - **Email**: [skersniki@gmail.com](mailto:skersniki@gmail.com)
 
 ---
