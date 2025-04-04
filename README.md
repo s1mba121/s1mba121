@@ -24,7 +24,6 @@ I'm a **web and mobile developer** passionate about creating user-friendly, effi
     <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=222222" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
@@ -57,6 +56,5 @@ I'm a **web and mobile developer** passionate about creating user-friendly, effi
 
 ### 🎯 Current Goals
 
-- Master **PHP** and **Laravel** to expand backend skills.
 - Deepen knowledge in **TypeScript**.
 - Build side projects to enrich my portfolio.
